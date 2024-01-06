@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/geekbros/SHM-Backend/boltrrd"
+	"github.com/huoyoo/boltrrd"
 )
 
 func ExampleNewStorage() {
